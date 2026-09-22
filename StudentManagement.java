@@ -86,8 +86,8 @@ setVisible(true);
 private Connection getConnection(){
 
 String url = "jdbc:mysql://localhost:3306/student_management";
-String username = "root";
-String password = "sandip123";
+String username = "MYSQL-username";
+String password = "MYSQL-password";
 
 Connection conn = null;
 
